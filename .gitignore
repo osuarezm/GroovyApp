@@ -1,0 +1,20 @@
+# Grails  Gradle
+build
+target
+.class
+.log
+
+# IntelliJ
+.idea
+.iml
+out
+
+# Gradle caches
+.gradle
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Grails compiled stuff
+grails-appconfspringresources.groovy~
